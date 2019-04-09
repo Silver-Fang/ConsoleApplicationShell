@@ -10,7 +10,7 @@
   <Identity
     Name="642671AC6A72D.52333923F7214"
     Publisher="CN=C6ECC887-0CE3-4397-A2DB-DD8D66347822"
-    Version="2.2.3.0" />
+    Version="2.3.0.0" />
 
   <Properties>
     <DisplayName>控制台应用外壳</DisplayName>
